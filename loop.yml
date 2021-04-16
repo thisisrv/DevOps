@@ -6,7 +6,7 @@
   - name: This will create 3 dirctories on desktop.
     command: mkdir ""{{ item }}""
     with_items:
-    - dir1
-    - dir2
-    - dir3
+    - dir4
+    - dir5
+    - dir6
 ...
